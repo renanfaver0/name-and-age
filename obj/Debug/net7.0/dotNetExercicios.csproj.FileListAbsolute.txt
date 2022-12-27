@@ -1,0 +1,15 @@
+/Users/renanfavero/Documents/dotNetExercicios/bin/Debug/net7.0/dotNetExercicios
+/Users/renanfavero/Documents/dotNetExercicios/bin/Debug/net7.0/dotNetExercicios.deps.json
+/Users/renanfavero/Documents/dotNetExercicios/bin/Debug/net7.0/dotNetExercicios.runtimeconfig.json
+/Users/renanfavero/Documents/dotNetExercicios/bin/Debug/net7.0/dotNetExercicios.dll
+/Users/renanfavero/Documents/dotNetExercicios/bin/Debug/net7.0/dotNetExercicios.pdb
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.csproj.AssemblyReference.cache
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.AssemblyInfoInputs.cache
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.AssemblyInfo.cs
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.csproj.CoreCompileInputs.cache
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.dll
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/refint/dotNetExercicios.dll
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.pdb
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/dotNetExercicios.genruntimeconfig.cache
+/Users/renanfavero/Documents/dotNetExercicios/obj/Debug/net7.0/ref/dotNetExercicios.dll
