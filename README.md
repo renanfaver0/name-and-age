@@ -1,5 +1,5 @@
 # name-and-age
-Programa para verificar o nome e a idade do usuário. (Fundamentos CSharp)
+Program for verification the name and age for user, using CSharp.
 
-## Comando para iniciar o programa:
+## Command for initializing the program on terminal of VS Code: 
 - dotnet run
